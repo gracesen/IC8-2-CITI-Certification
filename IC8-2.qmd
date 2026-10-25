@@ -5,4 +5,39 @@ format: html
 editor: visual
 ---
 
+```{=html}
+<style>
+/* Page title */
+.quarto-title h1.title {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+/* Body text */
+body {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+/* Section headings */
+h1 {
+  font-size: 21px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+```
+
 ![](image.png)
+
+# GitHub Pages link
+
+[**https://gracesen.github.io/IC8-2-CITI-Certification/**](https://gracesen.github.io/IC8-2-CITI-Certification/)
